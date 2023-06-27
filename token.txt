@@ -1,3 +1,3 @@
 token karen: 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
-token emerson: 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
+token Emerson: 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
 token Geraldine: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
